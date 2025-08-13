@@ -1,0 +1,10 @@
+## Pages
+- [- Your Song Request`}](/artist): No description available
+- [Artist Dashboard - Your Song Request](/admindashboard): Manage your artist profile, setlist, and upcoming performances from your dashboard.
+- [Artist Login - Your Song Request](/login): Login to your artist account and manage your song requests, setlist, and performances.
+- [Artist Signup - Your Song Request](/signup): Create your artist account and start managing song requests from your audience during live performances.
+- [Calendar Management - Your Song Request](/calendar): Schedule and manage your upcoming performances and gigs.
+- [Live Dashboard - Your Song Request](/livedashboard): Manage your live performance, song requests, and go live.
+- [Payouts - Your Song Request](/payouts): View your earnings and request payouts.
+- [Profile Management - Your Song Request](/profile): Update your artist profile including name, bio, and profile picture.
+- [Setlist Management - Your Song Request](/setlist): Manage your song catalog with custom pricing.
